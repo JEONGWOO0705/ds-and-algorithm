@@ -9,11 +9,10 @@
 ## Day 2
 - 파이썬 기초 복습
 
-![자료구조](https://t1.daumcdn.net/cfile/tistory/23202B4C53FDC5600C)
-
-
-
 - 파이썬 자료구조
+
+    ![자료구조](https://t1.daumcdn.net/cfile/tistory/23202B4C53FDC5600C)
+
     - 선형 리스트
     - 단순 연결 리스트 = 파이썬의 list와 동일
 
