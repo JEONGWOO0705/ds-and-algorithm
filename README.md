@@ -22,6 +22,7 @@
         - pop : list.pop()
         - push : list.append()
     - 큐 : First In First Out(FIFO)
+
         ![queue](https://raw.githubusercontent.com/JEONGWOO0705/ds-and-algorithm/main/images/queue.png)
 
 ## Day 4
