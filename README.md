@@ -41,6 +41,9 @@
 ## Day 5
 - 파이썬 자료구조/ 알고리즘
     - 그래프
+
+        ![Graph](https://raw.githubusercontent.com/JEONGWOO0705/ds-and-algorithm/main/images/graph.png)
+
     - 재귀 호출
     - 정렬
     - 검색
