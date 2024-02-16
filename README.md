@@ -42,12 +42,16 @@
 - 파이썬 자료구조/ 알고리즘
     - 그래프
 
-        ![Graph](https://raw.githubusercontent.com/JEONGWOO0705/ds-and-algorithm/main/images/graph.png)
+        ![Graph](https://raw.githubusercontent.com/JEONGWOO0705/ds-and-algorithm/main/images/graph2.png)
 
-    - 재귀 호출
-    - 정렬
-    - 검색
+
 
 ## Day 6
+- 파이썬 자료구조/ 알고리즘
+    - 재귀 호출
+    - 정렬
 
 ## Day 7
+- 파이썬 자료구조/ 알고리즘
+    - 검색
+- 코딩 테스트
