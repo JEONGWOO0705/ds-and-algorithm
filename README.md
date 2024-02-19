@@ -56,7 +56,7 @@
         - 퀵 정렬 Quick Sort - 기준값 기준으로 작은값 그룹 / 큰 값 그룹을 분리한 뒤 다시 정렬 재귀 호출 O(nlogn)
 
 
-        ![정렬](https://raw.githubusercontent.com/JEONGWOO0705/ds-and-algorithm/main/images/sorting.png)
+        ![정렬](https://raw.githubusercontent.com/JEONGWOO0705/ds-and-algorithm/main/images/sorting.jpg)
 
 
 ## Day 7
